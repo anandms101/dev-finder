@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/anandms101/dev-finder/blob/main/public/images/HomePage.png" alt="project-screenshot" width="1200" height="600">
-<img src="https://github.com/anandms101/dev-finder/blob/main/public/images/SignInPage.png" alt="project-screenshot" width="1200" height="600">
-<img src="https://github.com/anandms101/dev-finder/blob/main/public/images/RoomsPage.png" alt="project-screenshot" width="1200" height="600">
+<img src="https://github.com/anandms101/dev-finder/blob/main/public/images/HomePage.png" alt="project-screenshot" width="1200" height="400">
+<img src="https://github.com/anandms101/dev-finder/blob/main/public/images/SignInPage.png" alt="project-screenshot" width="1200" height="400">
+<img src="https://github.com/anandms101/dev-finder/blob/main/public/images/RoomsPage.png" alt="project-screenshot" width="1200" height="400">
 
 <h2>🛠️ Installation Steps:</h2>
 
